@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>468856910279-ep6m2pbn0gu5vqpea6c02evu8ms68b6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.468856910279-ep6m2pbn0gu5vqpea6c02evu8ms68b6n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1aANHI81JGIjyhXlNOCfQxgin5k5cGJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>468856910279</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sayamen</string>
+	<key>PROJECT_ID</key>
+	<string>firecrud-f5cda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firecrud-f5cda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:468856910279:ios:239f06d1a27f311976e9e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://firecrud-f5cda-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

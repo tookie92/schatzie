@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468856910279",
+    "firebase_url": "https://firecrud-f5cda-default-rtdb.firebaseio.com",
+    "project_id": "firecrud-f5cda",
+    "storage_bucket": "firecrud-f5cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468856910279:android:c4d6bd6b9b5d7b2b76e9e2",
+        "android_client_info": {
+          "package_name": "com.example.sayamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468856910279-qal1ogmf6r881n4p9btgbpv0fhts96ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn3_tTIvEsHGgZsKLprxpkUqEVn6KHv00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468856910279-qal1ogmf6r881n4p9btgbpv0fhts96ps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468856910279-ep6m2pbn0gu5vqpea6c02evu8ms68b6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sayamen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
